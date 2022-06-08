@@ -1,4 +1,4 @@
-# formulario-cadastro 
+### formulario-cadastro 
 Foi selecionado o form por meio da " const form = document.getElementById" ;
 Em seguida foi adicionado os inputs, selecionados pelos respectivos id's (username, email, password e password-confirmation) ; 
 A linha form.AddEventListener('submit') foi usada para que a página não recarregar quando for enviado o formulário; 
